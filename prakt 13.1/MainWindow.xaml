@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:prakt_13._1"
         mc:Ignorable="d"
-        Title="Практическая работа №13" Height="507.298" Width="684.006" Icon="cyclone_weather_world_time_icon_194253.ico">
+        Title="Практическая работа №13" MinHeight="507.298" MinWidth="684.006" Icon="cyclone_weather_world_time_icon_194253.ico" WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="84*"/>
